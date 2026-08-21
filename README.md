@@ -114,14 +114,6 @@ I enjoy building ML models, experimenting with datasets, and exploring how AI ca
 
 ---
 
-## Contribution city grid
-
-<div align="center">
-  <img src="https://komarev.com" alt="Visitor Arcade Count Token" />
-</div>
-
----
-
 ## 💭 Quote of the Day
 
 <div align="center">
