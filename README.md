@@ -114,16 +114,10 @@ I enjoy building ML models, experimenting with datasets, and exploring how AI ca
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution city grid
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajgohel2908/Rajgohel2908/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajgohel2908/Rajgohel2908/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Rajgohel2908/Rajgohel2908/output/github-snake-dark.svg" />
-</picture>
-
+  <img src="https://vcap.me" alt="3D Contribution City Grid View" />
 </div>
 
 ---
